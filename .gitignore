@@ -1,0 +1,15 @@
+# Compiled binaries
+*.out
+*.exe
+a.out
+matrix_multiplication
+sort_numbers
+
+# Build directories
+build/
+bin/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store

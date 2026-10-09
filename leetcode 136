@@ -1,0 +1,21 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+class Solution{
+    public:
+      int singleNumber(vector<int>& nums){
+        int p=0;
+          for(int i=0;i<nums.size();i++){
+             p^=nums[i];
+          }
+          return p;
+
+      }
+};
+
+int main(){
+    Solution obj;
+    vector<int> nums={4,4,5,5,6};
+    cout<<obj.singleNumber(nums)<<endl;
+    return 0;
+}

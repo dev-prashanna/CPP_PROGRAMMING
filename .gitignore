@@ -2,8 +2,32 @@
 *.out
 *.exe
 a.out
+2x2mul
+Kadanes_algorithm
+Matrix_boundary_sum
+Matrix_vec_multiplicatiion
+Pairsum
+Rotated_sorted_array
+bin2dec
+binary_search
+bitwise
+bruteforce_approcach
+const
+deci2bin
+linear_s
+linear_search_small_arr
+linked_list
+ll2
 matrix_multiplication
+merge2sortedlist
+op_precedence
+param
+pointer1
+single_number_problem
+sort
 sort_numbers
+string
+twopointerapproach
 
 # Build directories
 build/
